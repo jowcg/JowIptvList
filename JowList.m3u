@@ -1,66 +1,207 @@
 #EXTM3U
 
-####################################################### FILMES E SÉRIES
+### [REI] https://reidoscanais.tv/
+### [RDC] https://redecanaistv.ec/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",A&E
+####################################################### FILMES E SERIES
+
+#########
+## A&E ##
+#########
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",A&E [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/aee/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",A&E [RDC]
 #EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=aie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/117.0
 https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x2/docs/aie/__index.m3u8?mu3zAQc9HC3GbwJq=7t8aPd5AFyrT3QIAM6v4Tw&3U1G7qaTxrPbalZnEx=1733118853&sv=139
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",AXN
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="Canais | FILMES E SERIES",A&E SD [Op 3]
+https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="Canais | FILMES E SERIES",A&E HD [Op 4]
+https://cdn-2.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
+
+#########
+## AMC ##
+#########
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",AMC [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/amc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",AMC [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=amc
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x4/docs/amc/__index.m3u8?mu3zAQc9HC3GbwJq=a42B4hq4vvW2Lg1U_0U0Hw&3U1G7qaTxrPbalZnEx=1733138707&sv=21
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC HD [Alter]
+http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/669.m3u8
+
+#EXTINF:-1 tvg-id="AMC BRASIL" tvg-name="AMC BRASIL" tvg-logo="https://imgur.com/2lr4rvX.png" group-title="Canais | FILMES E SERIES",AMC FHD
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/229
+
+
+#########
+## AXN ##
+#########
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",AXN [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",AXN [RDC]
 #EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/
 https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x4/docs/axn/__index.m3u8?mu3zAQc9HC3GbwJq=sZtBbEvgkQ5br57qw_sotw&3U1G7qaTxrPbalZnEx=1733119810&sv=105
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",FX [Op 1]
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN SD [Op 3]
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://imgur.com/IaxysZJ.png" group-title="Canais | FILMES E SERIES",AXN HD [Op 4]
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
+
+
+##################
+## Canal Brasil ##
+##################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Canal Brasil [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/canalbrasil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Canal Brasil [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=canalbrasil
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/canalbrasil/__index.m3u8?mu3zAQc9HC3GbwJq=cZuJv8PXdF9yA9UnCzADfw&3U1G7qaTxrPbalZnEx=1733138727&sv=42
+
+
+#################
+## Cine Brasil ##
+#################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Cine Brasil [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/cinecanal/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Cine Brasil [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=cinecanal
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x2/docs/cinecanal/__index.m3u8?mu3zAQc9HC3GbwJq=tzFctBUsFCH66NQ3ge-9qg&3U1G7qaTxrPbalZnEx=1733138752&sv=114
+
+
+#############
+## Cinemax ##
+#############
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Cinemax [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/cinemax/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Cinemax [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=cinemax
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x3/docs/cinemax/__index.m3u8?mu3zAQc9HC3GbwJq=x84qOoAaJBEZMzfhdP335g&3U1G7qaTxrPbalZnEx=1733138769&sv=7
+
+
+########
+## FX ##
+########
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",FX [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/fx/index.m3u8
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",Telecine Pipoca [Op 1]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",FX [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=fx
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x4/docs/fx/__index.m3u8?mu3zAQc9HC3GbwJq=s-wgCh0dxg069j5EhRpLHg&3U1G7qaTxrPbalZnEx=1733136584&sv=47
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",FX HD [Op 3]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/244
+
+
+###############
+## TC PIPOCA ##
+###############
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Pipoca [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/telecinepipoca/index.m3u8
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",Telecine Premium [Op 1]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Pipoca [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/link/stream.m3u8?categoria=fhd&canal=c0hIM0R0N1VXVlVVR2poVjBGSmg0eTdGZ3MxNkV6NzlPUT09
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x4/docs/telecinepipoca/__index.m3u8?mu3zAQc9HC3GbwJq=d46iOmvr6QGUnvnrz5_6Gg&3U1G7qaTxrPbalZnEx=1733136861&sv=7
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | FILMES E SERIES",Telecine Pipoca HD [Op 3]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/304
+
+################
+## TC PREMIUM ##
+################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Premium [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://d1wwtskvr1r98k.cloudfront.net/out/v1/cec975a27bfd4e57932669c382c3a57b/index.mpd
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",Telecine Premium [Op 3]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Premium [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=telecinepremium
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x4/docs/telecinepremium/__index.m3u8?mu3zAQc9HC3GbwJq=B-RR_HXmTFUEeBZ8RctFqA&3U1G7qaTxrPbalZnEx=1733137931&sv=130
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Premium [Op 3]
 http://dzcdn.vood.top/live/ottplayerchannel/JFYQWKNbCUe5/633.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",Telecine Premium [Op 4]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Premium [Op 4]
 http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/307
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",TCM
+##############
+## TC TOUCH ##
+##############
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Touch [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://d31ii3fk8fd7mh.cloudfront.net/out/v1/f3af466d27654565be4d8db220f97712/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",Telecine Touch [RDC]
+#EXTVLCOPT:http-referrer=https://xn----------------g34l3fkp7msh1cj3acobj33ac2a7a8lufomma7cf2b1sh.xn---1l1--5o4dxb.xn---22--11--33--99--75---------b25zjf3lta6mwf6a47dza94e.xn--pck.xn--zck.xn--0ck.xn--pck.xn--yck.xn-----0b4asja8cbew2b4b0gd0edbjm2jpa1b1e9zva7a0347s4da2797e7qri.xn--1ck2e1b/player3/ch.php?categoria=live&canal=telecinetouch
+https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1x2/docs/telecinetouch/__index.m3u8?mu3zAQc9HC3GbwJq=4YuHS5Bx9Eg-uvWHLdvpLQ&3U1G7qaTxrPbalZnEx=1733137984&sv=95
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch HD [Op 3]
+http://15.235.50.113:14010/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/viw732w.png" group-title="Canais | FILMES E SERIES",Telecine Touch FHD [Op 4]
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/310
+
+#########
+## TCM ##
+#########
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",TCM [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/tcm/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SERIES",TCM [Op 2]
 https://cdn-4.nxplay.com.br/TCM_TK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",TCM
-https://anonmedia.eu/tcm/index.m3u8
-#EXTVLCOPT:http-referrer=https://jalynrabei.com/
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",Rede Brasil
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w369594033.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",TV Carioca 
-https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",BS-TV Online
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",Central TV
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | FILMES E SÉRIES",ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/playlist.m3u8
 
 
 ####################################################### WEB-TV
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Rede Clouding
-https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Séries Classic
-https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",BS-TV Online
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Classique TV Séries
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Canal 29 Séries Antigas
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Central TV
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Classique TV SERIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Classique TV Western
@@ -69,17 +210,11 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Canal 29 Séries Antigas
-https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Web TV Clássicos do Cinema
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Moviesphere Brazil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
@@ -87,43 +222,56 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Moviesphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Caravana Play
-https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Rede Brasil
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w369594033.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Rede Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",SÉRIES Classic
+https://srv6.zcast.com.br/adriano8425/adriano8425/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",TV Carioca 
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais | WEB-TV",Web TV Clássicos do Cinema
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 
 
-######################################################### Canais FILMES E SÉRIES 24h
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Um Maluco no Pedaço 24h
+######################################################### Canais FILMES E SERIES 24h
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Um Maluco no Pedaço 24h
 http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Os Trapalhões 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Os Trapalhões 24h
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴2 Homens e Meio 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴2 Homens e Meio 24h
 http://24hrs.homelinux.com:80/24H-2HomensEmeio/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Todo Mundo Odeia O Cris 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Todo Mundo Odeia O Cris 24h
 http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Pegadinhas Silvio Santos 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Pegadinhas Silvio Santos 24h
 http://24hrs.homelinux.com:80/24H-pegadihassilviosantos.txt/video.m3u8 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴As Visões da Raven 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴As Visões da Raven 24h
 http://24hrs.homelinux.com:80/24H-asvisoesdaraven/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴A Grande Família 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴A Grande Família 24h
 http://24hrs.homelinux.com:80/24H-O.Album.da.Grande.Familia.S01/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Escolinha Raimundo 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Escolinha Raimundo 24h
 http://24hrs.homelinux.com:80/24H-escolinhaold/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Eu a Patroa e as Crianças 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Eu a Patroa e as Crianças 24h
 http://24hrs.homelinux.com:80/24H-euapatroaeascriancas7/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴Tô d Graça 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴Tô d Graça 24h
 http://24hrs.homelinux.com:80/24H-todegraca/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SÉRIES 24h",🔴XENA 24h
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | FILMES E SERIES 24h",🔴XENA 24h
 http://xciptv.8888play.one:80/228463308/r576049x/272707
 
 ######################################################### Canais INFANTIL 24h
@@ -190,4 +338,5 @@ http://24hrs.homelinux.com:80/24H-cavaleiros/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BatygW5.png" group-title="Canais | INFANTIL",🔴Os Flistony 24h
 http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8
+
 
