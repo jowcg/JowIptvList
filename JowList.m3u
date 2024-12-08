@@ -117,7 +117,7 @@ https://super-cdn.link/afazenda6/index.m3u8
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/tlc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",TVI Reality [PT]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",TVI Reality [PT]
 https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 ####################################################### Esportes
