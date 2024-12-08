@@ -17,12 +17,114 @@
 ### [RDC] https://redecanaistv.ec/
 ### [EMB] https://embedcanaistv.com/
 
+####################################################### Abertos
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Globo RJ [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/globorj-globorio/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Globo SP [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/globosp-globosaopaulo/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Globo MG [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/globomg-globominas/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Globo Brasília [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/globodf-globobrasilia/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Globo Nordeste [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/globope-globonordeste/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",SBT
+#EXTVLCOPT:http-referrer=https://mais.sbt.com.br/
+https://aovivo.maissbt.com/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",SBT [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/sbt/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",BAND
+https://www.dailymotion.com/cdn/live/video/x83vbd6.m3u8?sec=4hp7mxzLNZQs48BIZnQt1PkatBq52N19yFAOze_3E7W0_hiUXErFDYvz5qFx_EUNgc5gixCMWW7UciyiB8rrhCXiCjslqBhAJfWmnQPWefY
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",BAND [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/band/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",RECORD SP [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/record/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/62e010e6cd663f0007e57dc8/colorLogoPNG.png?w=117" group-title="Pluto TV [BR]",TV Cultura [Pluto TV]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",TV Cultura [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/tvcultura/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/6048fc47a44e540007745d2b/colorLogoPNG.png?w=117" group-title="Pluto TV [BR]",RedeTV [Pluto TV]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Futura
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",Futura [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/futura/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ABERTOS",TV Gazeta [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/gazeta/index.m3u8
+
+
+
+####################################################### Reality
+
+# A FAZENDA 6 #
+
+A Fazenda 6 (Cam 1)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",A Fazenda 6 (Cam 1) [REI]
+#EXTVLCOPT:http-referrer=https://vivolixopano.com/
+https://super-cdn.link/afazenda/index.m3u8
+A Fazenda 6 (Cam 2)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",A Fazenda 6 (Cam 1) [REI]
+#EXTVLCOPT:http-referrer=https://vivolixopano.com/
+https://super-cdn.link/afazenda2/index.m3u8
+A Fazenda 6 (Cam 3)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",A Fazenda 6 (Cam 1) [REI]
+#EXTVLCOPT:http-referrer=https://vivolixopano.com/
+https://super-cdn.link/afazenda3/index.m3u8
+A Fazenda 6 (Cam 4)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",A Fazenda 6 (Cam 1) [REI]
+#EXTVLCOPT:http-referrer=https://vivolixopano.com/
+https://super-cdn.link/afazenda4/index.m3u8
+A Fazenda 6 (Cam 5)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",A Fazenda 6 (Cam 1) [REI]
+#EXTVLCOPT:http-referrer=https://vivolixopano.com/
+https://super-cdn.link/afazenda5/index.m3u8
+A Fazenda 6 (Cam 6)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",A Fazenda 6 (Cam 1) [REI]
+#EXTVLCOPT:http-referrer=https://vivolixopano.com/
+https://super-cdn.link/afazenda6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="REALITY",TLC [REI]
+#EXTVLCOPT:http-referrer=https://jalynrabei.com/
+https://anonmedia.eu/tlc/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",TVI Reality [PT]
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 
 ####################################################### Esportes
 
 ## CANAIS AVULSOS DE ESPORTES ##
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | Esportes",Combate [REI]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS | ESPORTES",Combate [REI]
 #EXTVLCOPT:http-referrer=https://jalynrabei.com/
 https://anonmedia.eu/combate/index.m3u8
 
@@ -786,6 +888,46 @@ https://anonmedia.eu/zoomoo/index.m3u8
 
 
 
+####################################################### Estrangeiros
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",Cañal de Las Estrellas [MEX]
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",Nmas [MEX]
+https://channel08secure-notusa.akamaized.net/hls/live/2037034/event01/index.m3u8?hdnea=exp=1733671390~acl=/*~hmac=d8ea6dba367deebf50d79e9a02670452f89930b1b8d7fc9686e613e213bbb1c1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",Telemundo [USA]
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",TVI [PT]
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",TVI Ficção [PT]
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",TVI Reality [PT]
+https://video-auth5.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",SIC [PT]
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",Rai News 24 [IT]
+#EXTVLCOPT:http-referrer=https://www.rainews.it/
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1733671922~exp=1733672072~acl=/*~hmac=8bded0dafb46675fb44bd1d5937ee4092506c2dd870b259c642f7780a8e10126
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",RTR Planeta [RU]
+#EXTVLCOPT:http-referrer=https://player.smotrim.ru/
+https://vgtrksmotrim.cdnvideo.ru/hls/planeta_rtr_euro/playlist.m3u8?md5=c9WmRIQWOUUAwKmK3Lqr5Q&e=1733693903
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Estrangeiros",TVR International [Romênia]
+https://tvr-tvri.cdn.zitec.com/live/tvri/mux_video_ts_hd/index-1.m3u8
+
+
+
+
 ####################################################### WEB-TV
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="WEB-TV",AWTV
@@ -897,6 +1039,9 @@ https://embedcanaistv.club/24h-chapolin/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/24chaves.webp" group-title="INFANTIL",🔴Chaves 24h [EMB]
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/24h-chaves/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="INFANTIL",🔴Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/09/24hcavernadodragao.webp" group-title="INFANTIL",🔴Caverna do Dragão [EMB]
 https://embedcanaistv.club/24h-cavernadodragao/video.m3u8
